@@ -1,0 +1,51 @@
+.head{
+
+    color: #393E46;
+    text-align: center;
+    margin: 0px;
+
+}
+
+#line1{
+
+    margin-top: 20px;
+}
+
+#line2{
+    font-size: 0.9em;
+}
+
+#line3{
+
+    margin: 30px ;
+    text-align: center;
+    text-transform: uppercase;
+    color: #393E46;
+}
+
+#intro{
+
+    margin-left: 200px;
+    color: #393E46;
+}
+
+.parag{
+
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 13px;
+    font-family: "Liberation Sans";
+}
+
+.ending{
+
+    text-align: right;
+    margin-right: 150px;
+    font-size: 13px;
+    font-family: "Liberation Sans"
+}
+
+#sign{
+
+    margin-top: 30px;
+}
